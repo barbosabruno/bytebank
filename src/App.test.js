@@ -25,4 +25,16 @@ describe('App main component', () => {
         });
     });
 
+    describe('When I make a transaction', () => {
+        it('should decrease the balance for a withdrawal', () => {
+            const valores = {
+                transacao: 'saque',
+                valor: 50
+            }
+
+            const novoSaldo = calcularNovoSaldo(valores, 150);
+
+            expect(novoSaldo).toBe(100);
+        });
+    });
 });
