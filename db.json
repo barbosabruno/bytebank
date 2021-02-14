@@ -4,7 +4,7 @@
   },
   "transacoes": [
     {
-      "valor": 10,
+      "valor": "10",
       "transacao": "saque",
       "data": "10/08/2020",
       "id": 1
@@ -134,6 +134,78 @@
       "valor": "10",
       "data": "2/14/2021",
       "id": 22
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "2/14/2021",
+      "id": 23
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "2/14/2021",
+      "id": 24
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "2/14/2021",
+      "id": 25
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "2/14/2021",
+      "id": 26
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "2/14/2021",
+      "id": 27
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "2/14/2021",
+      "id": 28
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "2/14/2021",
+      "id": 29
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "2/14/2021",
+      "id": 30
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "2/14/2021",
+      "id": 31
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "2/14/2021",
+      "id": 32
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "2/14/2021",
+      "id": 33
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "2/14/2021",
+      "id": 34
     }
   ]
 }
